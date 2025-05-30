@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": ["Magia", "Teletransportación"],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": ["Wong"],
+    "enemigo": ["Dormammu"]
+  }
+]
